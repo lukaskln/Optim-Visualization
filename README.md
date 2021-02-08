@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lukaskln/Optim-Visualization">
-    <img src="https://github.com/lukaskln/Optim-Visualization/blob/main/Graphics/Bivariate.png" alt="Logo" width="600">
+    <img src="https://github.com/lukaskln/Optim-Visualization/blob/master/Graphics/Bivariate.png" alt="Logo" width="500">
   </a>
 
   <h3 align="center">Visualization of Optimization</h3>
