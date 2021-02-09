@@ -24,11 +24,15 @@
 
 ## About the Project
 
-Text
+Julia is an efficient language for numerical optimization. To better understand how different optimization 
+algorithm work and how they converge this small project visualizes the optimization paths of gradient based methods and Simulated
+Annealing for almost any uni- and bivariate function.
 
 ## The Code 
 
-Text
+The code is seperated into two scripts: one for univariate and one for bivariate functions. The code uses the *optim* packages and the *gr* visualization 
+backend. Before running the script the function, maximum iterations and the starting position have to be set. Note, that Simulated Annealing is a heuristic 
+method and outcomes can change if the seed is not fixed.  
 
 ## Contact
 
