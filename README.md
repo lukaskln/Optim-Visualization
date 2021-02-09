@@ -30,8 +30,8 @@ Annealing for almost any uni- and bivariate function.
 
 ## The Code 
 
-The code is seperated into two scripts: one for univariate and one for bivariate functions. The code uses the *optim* packages and the *gr* visualization 
-backend. Before running the script the function, maximum iterations and the starting position have to be set. Note, that Simulated Annealing is a heuristic 
+The code is seperated into two scripts: one for univariate and one for bivariate functions. The code uses the *optim* package and the *gr* visualization 
+backend. Before running the script, function, maximum iterations and the starting position have to be set. Note, that Simulated Annealing is a heuristic 
 method and outcomes can change if the seed is not fixed.  
 
 ## Contact
